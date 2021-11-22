@@ -17,17 +17,18 @@ operators, hex, octal, binary and ASCII display.
 2. Subtraction
 3. Multiplication
 4. Division
-5. Sign
-6. Square
-7. Square Root
-8. Raise to the Power
-9. Natural Exponential
-10. Logarithm
-11. Natural Logarithm
-12. Inverse
-13. Exponent
+5. Power
+6. Sin
+7. Cos
+8. Root
+9. Tan
+10. Sec
+11. Cosec
+12. Cot
+13. Exponential
 14. Factorial
-15. PI
+15. Logritham
+16. Exit
 
 # 4W's And 1H
 
@@ -69,17 +70,19 @@ operators, hex, octal, binary and ASCII display.
 | HLR_2 |   The user can calculate the Subraction | Implemented |
 | HLR_3 |   The user can calculate the Multiplication | Implemented |
 | HLR_4 |   The user can calculate the Division  | Implemented |
-| HLR_5 |   The user can calculate the Sign  | Implemented |
-| HLR_6 |   The user can calculate the Square  | Implemented |
-| HLR_7 |   The user can calculate the Square Root  | Implemented |
-| HLR_8 |   The user can calculate the Raise to the Power  | Implemented |
-| HLR_9 |   The user can calculate the Natural Exponential  | Implemented |
-| HLR_10 |  The user can calculate the Logarithm  | Implemented |
-| HLR_11 |  The user can calculate the Natural Logarithm  | Implemented |
-| HLR_12 |  The user can calculate the Inverse  | Implemented |
-| HLR_13 |  The user can calculate the Exponent  | Implemented |
-| HLR_14 |  The user can calculate the Factorial  | Implemented |
-| HLR_15 |  The user can calculate the PI  | Implemented |
+| HLR_5 |   The user can calculate the Power  | Implemented |
+| HLR_6 |   The user can calculate the Sin | Implemented |
+| HLR_7 |   The user can calculate the Cos | Implemented |
+| HLR_8 |   The user can calculate the Root | Implemented |
+| HLR_9 |   The user can calculate the Tan | Implemented |
+| HLR_10 |  The user can calculate the Sec | Implemented |
+| HLR_11 |  The user can calculate the Cosec | Implemented |
+| HLR_12 |  The user can calculate the Cot | Implemented |
+| HLR_13 |  The user can calculate the Exponential | Implemented |
+| HLR_14 |  The user can calculate the Factorial | Implemented |
+| HLR_15 |  The user can calculate the Logritham | Implemented |
+| HLR_16 |  The user can calculate the Exit | Implemented |
+
 
 # Low Level Reuirements
 | ID   |      Description     |  Status |
