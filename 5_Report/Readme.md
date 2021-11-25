@@ -1,17 +1,12 @@
-
-
 # Requirements
 
-
 ## Introduction
-
 
 A fully featured scientific calculator with proper operator
 precedence is implemented, including trig functions and
 logarithms, factorials, 12 levels of parentheses, logs to base 2
 (a handy function for information entropists!), bitwise logical
 operators, hex, octal, binary and ASCII display.
-
 
 # Features
 
@@ -93,7 +88,6 @@ operators, hex, octal, binary and ASCII display.
 | LLR_2 |  Input from the user  | Implemented  |
 | LLR_3 |  Exit the program  | Implemented  |
 
-
 # Flowchart
 
 ![Capture](https://user-images.githubusercontent.com/94236183/142796698-b9c0eb60-aa32-4ead-b405-45e1f0253964.PNG)
@@ -110,7 +104,6 @@ Folder        | description
 `build`       | Build output (Not included in git)
 
 # Test Plan
-
 
 # High Level Test Plan
 | ID   |      Description     |  Expected o/p |
